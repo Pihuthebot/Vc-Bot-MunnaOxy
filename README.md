@@ -14,8 +14,7 @@ along with this userbot.
 ## Deploy to Heroku
 Before deploying don't forget to give star to our repo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xxMUNNAxx/Vc-Bot-MunnaOxy/tree/dev)
-
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Pihuthebot/Vc-Bot-MunnaOxy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 - Generate Pyrogram session string by
   running [generate-pyrogram-session-string.py](generate-pyrogram-session-string.py)
